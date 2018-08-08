@@ -1,0 +1,7 @@
+raw_input("Was the produce fresh? :")
+raw_input("Did we have a great selection of fruits and vegetables? :")
+raw_input("Did we have a great selection of meat? :")
+raw_input("Were our shelves properly stacked with a variety of canned and dried foods? :")
+raw_input("Did we provide efficient customer service? :")
+print ("Great, Thank you for taking Fruit and Vegie store survey!")
+print ("Goodbye")
